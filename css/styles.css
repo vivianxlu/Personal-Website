@@ -159,18 +159,18 @@
 
     /* buttons
      */
-    --color-btn                    : var(--color-gray-9);
+    --color-btn                    : var(--color-gray-15);
     --color-btn-text               : var(--color-1);
-    --color-btn-hover              : var(--color-white);
-    --color-btn-hover-text         : var(--color-black);
+    --color-btn-hover              : var(--color-gray-3);
+    --color-btn-hover-text         : var(--color-gray-18);
     --color-btn-primary            : var(--color-1-dark);
     --color-btn-primary-text       : var(--color-black);
     --color-btn-primary-hover      : var(--color-1-darker);
-    --color-btn-primary-hover-text : var(--color-black);
-    --color-btn-stroke             : var(--color-white);
+    --color-btn-primary-hover-text : var(--color-gray-18);
+    --color-btn-stroke             : var(--color-gray-3);
     --color-btn-stroke-text        : var(--color-white);
-    --color-btn-stroke-hover       : var(--color-white);
-    --color-btn-stroke-hover-text  : var(--color-black);
+    --color-btn-stroke-hover       : var(--color-gray-3);
+    --color-btn-stroke-hover-text  : var(--color-gray-18);
 
     /* preloader
      */
